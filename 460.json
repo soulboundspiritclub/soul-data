@@ -1,0 +1,39 @@
+{
+  "name": "Soul Bound Spirits #460",
+  "description": "Souls are Soul Bound Tokens, giving you irrevocable access & voting rights in the SBSC DAO",
+  "image": "ipfs://bafybeifl74mwf5y677nq75qbfwbez25xzveetnj6xsgy6zlejh7ifqo4ty/460.png",
+  "dna": "9d0796ea9f7b6ad90e29fbd86868c02072b3608d",
+  "edition": 460,
+  "date": 1663885573027,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG6"
+    },
+    {
+      "trait_type": "BACK",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "Queen"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Long Eyes"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Blue Lips"
+    },
+    {
+      "trait_type": "NECKLACE",
+      "value": "Magical Stone"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "Long Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
